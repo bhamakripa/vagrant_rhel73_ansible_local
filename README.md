@@ -1,0 +1,2 @@
+# vagrant_rhel73_ansible_local
+vagrant_rhel73_ansible_local example
