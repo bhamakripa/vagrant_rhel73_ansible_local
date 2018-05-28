@@ -1,7 +1,7 @@
 # vagrant_rhel73_ansible_local
 vagrant_rhel73_ansible_local example
 
-Other commands used were 
+Commands used were 
 
 cd e:
 cd SI/HashiCorp/rhel75/
