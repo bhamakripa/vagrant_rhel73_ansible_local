@@ -1,0 +1,13 @@
+---
+- hosts: all
+  become: true
+  user: vagrant
+  tasks:
+   - name: yum update
+     yum: name=* state=latest
+     
+   - name: apache install
+     yum: pkg=httpd state=latest
+      
+   #- name: Install Nginx
+     #apt: pkg=nginx state=installed update_cache=true
