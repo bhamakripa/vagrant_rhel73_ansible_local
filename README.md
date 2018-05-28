@@ -19,5 +19,7 @@ Later to force provision, use below command
   vagrant reload --provision
 
 Commit github repo:
+
   git remote add origin "https://github.com/bhamakripa/vagrant_rhel73_ansible_local.git"
+  
   git pull origin master --allow-unrelated-histories
