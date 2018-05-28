@@ -26,7 +26,7 @@ Commit github repo:
     
 Other commands: run manually from box within  or via ansible 
 ------------------         
-    sudo subscription-manager register --username bhamakripa@gmail.com --password admin@DB2 --auto-attach
+    sudo subscription-manager register --username bhamakripa@gmail.com --password xxxxxx --auto-attach
     
     sudo yum install httpd    
     
