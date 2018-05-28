@@ -4,6 +4,7 @@ vagrant_rhel73_ansible_local example
 Commands used were 
 
 cd e:
+
 cd SI/HashiCorp/rhel75/
 
 vagrant init
