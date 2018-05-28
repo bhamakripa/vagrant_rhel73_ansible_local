@@ -14,3 +14,5 @@
      #sudo rpm -qa | grep httpd     
      #sudo service httpd start     
      #curl localhost
+     
+     # git pull origin master --allow-unrelated-historie
